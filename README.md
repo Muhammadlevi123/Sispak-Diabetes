@@ -20,23 +20,23 @@
 
 **Landing Page**
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/landing-page.jpeg)
 
 **5 Jenis Diabetes yang Dapat Dideteksi**
 
-![Jenis Penyakit](screenshots/jenis-penyakit.png)
+![Jenis Penyakit](screenshots/jenis-penyakit.jpeg)
 
 **Alur Diagnosa**
 
-![Mulai Diagnosa](screenshots/mulai-diagnosa.png)
+![Mulai Diagnosa](screenshots/mulai-diagnosa.jpeg)
 
 **Hasil Diagnosa**
 
-![Hasil Diagnosa](screenshots/hasil-diagnosa.png)
+![Hasil Diagnosa](screenshots/hasil-diagnosa.jpeg)
 
 **Admin Panel**
 
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](screenshots/admin-panel.jpeg)
 
 ---
 
