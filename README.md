@@ -19,24 +19,19 @@
 ## 📸 Tampilan Aplikasi
 
 **Landing Page**
-
-![Landing Page](screenshots/landing-page.jpeg)
+<img src="screenshots/landing-page.jpeg" width="600"/>
 
 **5 Jenis Diabetes yang Dapat Dideteksi**
-
-![Jenis Penyakit](screenshots/jenis-penyakit.jpeg)
+<img src="screenshots/jenis-penyakit.jpeg" width="600"/>
 
 **Alur Diagnosa**
-
-![Mulai Diagnosa](screenshots/mulai-diagnosa.jpeg)
+<img src="screenshots/mulai-diagnosa.jpeg" width="600"/>
 
 **Hasil Diagnosa**
-
-![Hasil Diagnosa](screenshots/hasil-diagnosa.jpeg)
+<img src="screenshots/hasil-diagnosa.jpeg" width="600"/>
 
 **Admin Panel**
-
-![Admin Panel](screenshots/admin-panel.jpeg)
+<img src="screenshots/admin-panel.jpeg" width="600"/>
 
 ---
 
